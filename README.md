@@ -1,7 +1,7 @@
 # Ola Dashboard Analysis – Power BI Project
 
 ## 📌 Overview
-This Power BI dashboard analyzes ride booking data for a ride-hailing platform (Ola), offering actionable insights across booking trends, vehicle usage, revenue generation, cancellation reasons, and customer/driver ratings. The project showcases end-to-end data analysis using DAX, interactive visuals, and structured data modeling.
+This Power BI dashboard analyzes ride booking data for a ride-hailing platform (Ola), offering actionable insights across booking trends, vehicle usage, revenue generation, cancellation reasons, and customer/driver ratings. The project showcases end-to-end data analysis using DAX, interactive visuals, and structured data modeling. I write some SQL queries also for the same dataset.
 
 ## 📊 Dashboard Sections & Insights
 
@@ -24,9 +24,11 @@ This Power BI dashboard analyzes ride booking data for a ride-hailing platform (
 ## 5. Ratings
 - **Driver Ratings**: Measures service quality from the driver's perspective.
 - **Customer Ratings**: Captures customer satisfaction and engagement.
+  
 
 ## 🔧 Tools & Techniques
 - Power BI Desktop
+- SQL – Querying and summarizing raw data  
 - DAX (Data Analysis Expressions)
 - Data Modeling (Star Schema)
 - Visuals: Bar charts, line graphs, slicers, card visuals
@@ -41,5 +43,7 @@ This Power BI dashboard analyzes ride booking data for a ride-hailing platform (
 - `Ola_Project.pbix`: Complete interactive Power BI report
 - `Dashboard_Images/`: Screenshots of visuals
 - `README.md`: Project overview and insights
-- Optional: Exported PDF or PowerPoint version for static sharing
+- `Ola_SQL_Queries.sql`: Contains 10 optimized SQL queries used for data preparation  
+
+
 
